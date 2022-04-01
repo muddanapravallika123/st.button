@@ -10,6 +10,11 @@ Flow of the app:
 1. By default, the app prints `Goodbye`
 2. Upon clicking on the button, the app displays the alternative message `Why hello there`
 
+## Demo app
+The deployed Streamlit app should look something like the one shown in the below link: 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.button/)
+
 ## Code
 Here's the code to implement the above mentioned app:
 ```python
@@ -54,11 +59,6 @@ st.write('Goodbye')
 ```
 
 It is important to note that the above `st.write` statements are placed under the `if` and `else` conditions in order to perform the above mentioned process of alternative displaying of messages
-
-## Demo app
-The deployed Streamlit app should look something like the one shown in the below link: 
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.button/)
 
 ## Next steps
 
