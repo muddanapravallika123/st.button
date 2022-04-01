@@ -1,8 +1,8 @@
-# st-button
+# st.button
 `st.button` display a button widget. 
 
 ## Demo app
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st-button/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.button/)
 
 ## Code
 Contents of the `streamlit_app.py` file:
